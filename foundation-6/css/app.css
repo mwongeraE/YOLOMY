@@ -1,11 +1,27 @@
 body{
-    height: auto;
     weidth:100%;
     background-color:aliceblue;
+
 }
 
-.head{
-    background-image: url( "/backgrounds/hero.jpg");
+#head{
+    background-image: url(../backgrounds/hero.jpg);
+  background-size: cover;
     height: 100%;
 
+}
+#llogo li{
+    list-style: none;
+    text-align: right;
+    display: inline-block;
+    float: right;
+    padding: 4%;
+    padding-top: 5%;
+    font-size: 30px;
+    color: white;
+
+}
+#ylogo{
+    float: left;
+    padding: 4%;
 }
