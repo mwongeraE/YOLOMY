@@ -15,9 +15,10 @@ body{
     text-align: right;
     display: inline-block;
     float: right;
-    padding: 4%;
-    padding-top: 5%;
-    font-size: 15px;
+    padding: 3%;
+    padding-top: 6%;
+    padding-right: 6%;
+    font-size: 25px;
     color: white;
 
 }
@@ -43,6 +44,12 @@ body{
     padding-left: 700px;
 }
 .select{
-    height: 150px;
+    height: 110px;
+       padding-top: 3%;
+    padding-left: 10%;
     background-color: #9a8b6a;
+}
+.button-group .prod{
+   float:right;
+    background-color: brown;
 }
