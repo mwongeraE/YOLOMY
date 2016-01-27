@@ -42,3 +42,7 @@ body{
     padding-top: 220px;
     padding-left: 700px;
 }
+.select{
+    height: 150px;
+    background-color: #9a8b6a;
+}
