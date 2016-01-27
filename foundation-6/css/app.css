@@ -1,0 +1,11 @@
+body{
+    height: auto;
+    weidth:100%;
+    background-color:aliceblue;
+}
+
+.head{
+    background-image: url( "/backgrounds/hero.jpg");
+    height: 100%;
+
+}
