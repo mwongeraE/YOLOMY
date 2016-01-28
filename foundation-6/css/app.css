@@ -162,3 +162,22 @@ background-color: white;
     background-color: white;
        padding-top: 10px;
 }
+
+.wh4 {
+    float: left;
+}
+
+.whr {
+    float: right;
+    width: 93%;
+}
+
+.mh4 {
+    float: left;
+    margin-left: 100px
+}
+
+.mhr {
+    width: 87%;
+    float: right;
+}
