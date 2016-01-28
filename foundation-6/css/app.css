@@ -73,6 +73,13 @@ body{
     background-color: dimgrey;
     height: 10%;
 }
+.sale .tbird{
+ float: left;
+}
+.sale .t-text{
+    float: right;
+
+}
 .footer{
     background-color: black;
     height: 30%;
