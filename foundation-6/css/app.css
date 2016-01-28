@@ -62,7 +62,7 @@ body{
 }
 .women{
     padding: 5%;
-      padding-left:15%;
+      padding-left:10%;
 }
 #about{
       background-image: url(../backgrounds/about.jpg);
@@ -106,26 +106,53 @@ body{
 }
 
 .backpack {
-    border-style: solid;
+    border-style: none;
     height: 280px;
     padding-left: 100px;
-
+background-color: white;
     width: 32%;
 
 }
 
 .tshirt {
-    border-style: solid;
+    border-style: none;
     height: 280px;
     padding-left: 100px;
       width: 30%;
+    background-color: white;
 }
 
 .pants {
-    border-style: solid;
+    border-style: none;
     height: 280px;
     padding-left: 100px;
       margin-left: 45px;
       width: 30%;
+    background-color: white;
 
+}
+
+.giacket {
+     border-style: none;
+    height: 280px;
+    padding-left: 100px;
+      width: 30%;
+    background-color: white;
+}
+
+.t-ladies {
+   border-style: none;
+    height: 280px;
+    padding-left: 100px;
+background-color: white;
+    width: 32%;
+}
+
+.shoes {
+    border-style: none;
+    height: 280px;
+    padding-left: 100px;
+      margin-left: 45px;
+      width: 30%;
+    background-color: white;
 }
