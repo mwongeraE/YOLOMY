@@ -89,4 +89,18 @@ body{
     background-color: black;
     height: 30%;
     color: white;
+    text-align: center;
+}
+.yolomy-we{
+     padding-top: 4%;
+}
+.social-icons{
+    padding-top: 4%;
+}
+.credits{
+   padding-top: 6%;
+    font-size: 20px;
+}
+.credits-i{
+    font-size: 15px;
 }
