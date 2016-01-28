@@ -64,3 +64,8 @@ body{
     padding: 5%;
       padding-left:15%;
 }
+#about{
+      background-image: url(../backgrounds/about.jpg);
+    background-size: cover;
+    height: 60%;
+}
