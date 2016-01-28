@@ -58,7 +58,7 @@ body{
 }
 .men{
     padding: 5%;
-    padding-left:15%;
+    padding-left:10%;
 }
 .women{
     padding: 5%;
@@ -103,4 +103,29 @@ body{
 }
 .credits-i{
     font-size: 15px;
+}
+
+.backpack {
+    border-style: solid;
+    height: 280px;
+    padding-left: 100px;
+
+    width: 32%;
+
+}
+
+.tshirt {
+    border-style: solid;
+    height: 280px;
+    padding-left: 100px;
+      width: 30%;
+}
+
+.pants {
+    border-style: solid;
+    height: 280px;
+    padding-left: 100px;
+      margin-left: 45px;
+      width: 30%;
+
 }
