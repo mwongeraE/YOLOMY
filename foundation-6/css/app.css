@@ -181,3 +181,11 @@ background-color: white;
     width: 87%;
     float: right;
 }
+
+#fabout {
+    text-align: center;
+        padding-top: 50px;
+    font-size: 30px;
+    color: white;
+
+}
