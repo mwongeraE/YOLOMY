@@ -75,9 +75,14 @@ body{
 }
 .sale .tbird{
  float: left;
+    padding-left: 100px;
+    padding-top: 20px;
 }
 .sale .t-text{
     float: right;
+    padding-left: 150px;
+    font-size: 20px;
+
 
 }
 .footer{
