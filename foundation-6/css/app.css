@@ -63,6 +63,7 @@ body{
 .women{
     padding: 5%;
       padding-left:10%;
+
 }
 #about{
       background-image: url(../backgrounds/about.jpg);
@@ -190,7 +191,8 @@ background-color: white;
 
 }
 
-#field {
-    width: 50%;
 
+.h4 {
+    padding-top: 20px;
+    float: right;
 }
