@@ -1530,7 +1530,6 @@ kbd {
     border-color: #fefefe transparent transparent;
     border-top-style: solid;
     position: relative;
-    top: 0.4em;
     float: right;
     margin-left: 1em;
     display: inline-block; }
